@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LibraryEditor/1.0.0": {
+        "dependencies": {
+          "CustomFormControl": "1.0.0",
+          "Shared": "1.0.0",
+          "Ionic.Zlib": "1.9.1.8",
+          "ManagedSquish": "2.0.0.0"
+        },
+        "runtime": {
+          "LibraryEditor.dll": {}
+        }
+      },
+      "CustomFormControl/1.0.0": {
+        "runtime": {
+          "CustomFormControl.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Shared/1.0.0": {
+        "runtime": {
+          "Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ionic.Zlib/1.9.1.8": {
+        "runtime": {
+          "Ionic.Zlib.dll": {
+            "assemblyVersion": "1.9.1.8",
+            "fileVersion": "1.9.1.8"
+          }
+        }
+      },
+      "ManagedSquish/2.0.0.0": {
+        "runtime": {
+          "ManagedSquish.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "NativeSquish_x86/2.0.0.0": {
+        "runtime": {
+          "NativeSquish_x86.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "NativeSquish_x64/2.0.0.0": {
+        "runtime": {
+          "NativeSquish_x64.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomFormControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ionic.Zlib/1.9.1.8": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagedSquish/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NativeSquish_x86/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NativeSquish_x64/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
